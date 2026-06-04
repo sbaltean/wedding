@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#efe9f9" />
+  <title>Așezarea la mese · Find your table</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Jost:wght@300;400;500&display=swap"
+    rel="stylesheet" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <p class="hero__eyebrow">Bine ați venit · Welcome</p>
+      <!-- Edit the couple's names here -->
+      <h1 class="hero__names">Timea &amp; Sebastian</h1>
+      <p class="hero__sub">
+        Caută-ți numele ca să afli la ce masă stai
+        <span class="hero__sub-en">Search your name to find your table</span>
+      </p>
+    </header>
+
+    <section class="search">
+      <label class="search__label" for="q">
+        Numele tău <span class="search__label-en">/ Your name</span>
+      </label>
+      <div class="search__field">
+        <svg class="search__icon" viewBox="0 0 24 24" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input
+          id="q"
+          type="search"
+          inputmode="search"
+          autocomplete="off"
+          autocapitalize="off"
+          spellcheck="false"
+          placeholder="Ex: Maria, Popescu…"
+          aria-label="Caută numele tău / Search your name" />
+      </div>
+    </section>
+
+    <section id="results" class="results" aria-live="polite"></section>
+
+    <footer class="foot">
+      <p class="foot__copy">© <span id="year"></span> Sebastian Baltean</p>
+    </footer>
+  </main>
+
+  <script src="guests.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
