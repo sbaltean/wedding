@@ -1,27 +1,47 @@
 [
   {
+    "name": "Alex si Ivana Giurgica",
+    "table": 999
+  },
+  {
     "name": "Alexandra si Daniel Borlea",
-    "table": 3
+    "table": 8
   },
   {
     "name": "Alexandru Cirstea si Sorina Manea",
     "table": 4
   },
   {
-    "name": "Alin Ghitulan",
-    "table": 8
+    "name": "Alexandru si Ami Popa",
+    "table": 11
   },
   {
-    "name": "Andrei Azoitei",
+    "name": "Alin Ghitulan",
     "table": 10
   },
   {
+    "name": "Anca Voron",
+    "table": 11
+  },
+  {
+    "name": "Andrea \u0026 Steffen Beker",
+    "table": 2
+  },
+  {
+    "name": "Andrei Azoitei",
+    "table": 9
+  },
+  {
     "name": "Aneta Morar",
-    "table": 8
+    "table": 5
+  },
+  {
+    "name": "Anita si Sorin Haiduc",
+    "table": 999
   },
   {
     "name": "Arpi",
-    "table": 2
+    "table": 3
   },
   {
     "name": "Bacanu Dragos",
@@ -36,20 +56,24 @@
     "table": 2
   },
   {
-    "name": "Beker germania",
-    "table": 7
-  },
-  {
     "name": "Bende Guz Timar",
     "table": 7
   },
   {
     "name": "Bibi si Erno",
-    "table": 9
+    "table": 7
   },
   {
     "name": "Bruno Mark",
     "table": 4
+  },
+  {
+    "name": "Burman Gabriela",
+    "table": 3
+  },
+  {
+    "name": "Cezara Perian",
+    "table": 11
   },
   {
     "name": "Cimpoieru Valentin",
@@ -60,8 +84,16 @@
     "table": 6
   },
   {
+    "name": "Cosmin Tiru",
+    "table": 10
+  },
+  {
+    "name": "Cristi Morar",
+    "table": 5
+  },
+  {
     "name": "Cristina si Marc Stoian",
-    "table": 8
+    "table": 3
   },
   {
     "name": "Csongor si Klari",
@@ -69,67 +101,71 @@
   },
   {
     "name": "Dan Percic si Raluca",
+    "table": 10
+  },
+  {
+    "name": "Deiana Burciu",
     "table": 11
   },
   {
     "name": "Denisa Lazar",
-    "table": 10
+    "table": 11
   },
   {
     "name": "Diana Balan",
     "table": 10
   },
   {
-    "name": "Dora Francisk",
-    "table": 5
+    "name": "Dj Radu",
+    "table": 12
   },
   {
-    "name": "Drago\u0219 Garo",
+    "name": "Dora  Abel",
+    "table": 10
+  },
+  {
+    "name": "Drago\u0219 si Klara Garo",
     "table": 4
   },
   {
     "name": "Edwin Mulitz",
-    "table": 10
+    "table": 9
   },
   {
-    "name": "Elena Baltean",
+    "name": "Elena si Aura Baltean",
     "table": 1
   },
   {
     "name": "Emo Ralitsa si Chiril din Bulgaria",
-    "table": 0
-  },
-  {
-    "name": "Erszi Si Dani",
-    "table": 9
-  },
-  {
-    "name": "Evi si Andras Baranyay",
     "table": 2
   },
   {
-    "name": "Giurgica Alex",
-    "table": 999
+    "name": "Erszi Si Dani",
+    "table": 7
+  },
+  {
+    "name": "Evi si Andras Baranyay",
+    "table": 3
+  },
+  {
+    "name": "George Mihes",
+    "table": 4
   },
   {
     "name": "Gyury Conti",
-    "table": 3
-  },
-  {
-    "name": "Haiduc Sorin si Anita",
-    "table": 999
+    "table": 8
   },
   {
     "name": "Jean Claude Lugeon",
-    "table": 3
+    "table": 8
   },
   {
-    "name": "Joffrey and Ray Martinelli",
-    "table": 3
+    "name": "Joffrey and Rey Martinelli",
+    "table": 8
   },
   {
     "name": "Johannes Klaiber",
-    "table": 3
+    "table": 8
   },
   {
     "name": "Konstantina Menihta",
@@ -137,18 +173,18 @@
   },
   {
     "name": "Laura Boglut",
-    "table": 9
+    "table": 11
   },
   {
     "name": "Loichita Mihai",
     "table": 9
   },
   {
-    "name": "Magda pierug mateus",
+    "name": "Magda \u0026 Mateus Pierug",
     "table": 7
   },
   {
-    "name": "Maria Mihai",
+    "name": "Maria si Mihai",
     "table": 6
   },
   {
@@ -156,24 +192,24 @@
     "table": 10
   },
   {
-    "name": "Mihaela si Razvan Pelau",
-    "table": 8
-  },
-  {
     "name": "Molnar Laszlo",
     "table": 5
   },
   {
-    "name": "Norica Copil",
+    "name": "Nicu Stoian",
+    "table": 3
+  },
+  {
+    "name": "Norica \u0026 Dragos \u0026 Roman Copil",
     "table": 1
   },
   {
     "name": "Oana Pavel",
-    "table": 10
+    "table": 6
   },
   {
-    "name": "Oana rohlicek",
-    "table": 11
+    "name": "Oana Rohlicek",
+    "table": 10
   },
   {
     "name": "Ovi si Anca Ghirlea",
@@ -185,10 +221,14 @@
   },
   {
     "name": "Popa cristian",
-    "table": 10
+    "table": 9
   },
   {
-    "name": "Roberta andrei",
+    "name": "Q band",
+    "table": 12
+  },
+  {
+    "name": "Roberta si Andrei",
     "table": 6
   },
   {
@@ -204,16 +244,16 @@
     "table": 6
   },
   {
-    "name": "Tomo ivovic",
+    "name": "Tomo Iovicic",
     "table": 7
   },
   {
     "name": "Traian Popescu Manu",
-    "table": 8
+    "table": 9
   },
   {
     "name": "Tudor Strifler Monica",
-    "table": 0
+    "table": 9
   },
   {
     "name": "Victor Danci",
@@ -225,6 +265,6 @@
   },
   {
     "name": "Zsuzi Florin",
-    "table": 2
+    "table": 3
   }
 ]
