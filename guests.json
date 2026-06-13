@@ -24,7 +24,7 @@
     "table": 11
   },
   {
-    "name": "Andrea \u0026 Steffen Beker",
+    "name": "Andrea \u0026 Steffen Becker",
     "table": 2
   },
   {
@@ -40,10 +40,6 @@
     "table": 999
   },
   {
-    "name": "Arpi",
-    "table": 3
-  },
-  {
     "name": "Bacanu Dragos",
     "table": 5
   },
@@ -52,15 +48,11 @@
     "table": 1
   },
   {
-    "name": "Bandi Zsolt si Tunde",
+    "name": "Bandi Andras Zsolt si T\u00FCnde",
     "table": 2
   },
   {
-    "name": "Bende Guz Timar",
-    "table": 7
-  },
-  {
-    "name": "Bibi si Erno",
+    "name": "Bendeguz Timar",
     "table": 7
   },
   {
@@ -68,7 +60,7 @@
     "table": 4
   },
   {
-    "name": "Burman Gabriela",
+    "name": "Burman Gabriella",
     "table": 3
   },
   {
@@ -96,7 +88,7 @@
     "table": 3
   },
   {
-    "name": "Csongor si Klari",
+    "name": "Csongor si Klari Sebestyen",
     "table": 2
   },
   {
@@ -104,11 +96,11 @@
     "table": 10
   },
   {
-    "name": "Deiana Burciu",
+    "name": "Deiana si Calin Burciu",
     "table": 11
   },
   {
-    "name": "Denisa Lazar",
+    "name": "Denisa Lazar si Andrei Andresoi",
     "table": 11
   },
   {
@@ -136,20 +128,24 @@
     "table": 1
   },
   {
-    "name": "Emo Ralitsa si Chiril din Bulgaria",
+    "name": "Erzsebet Gal si Daniel Varga",
+    "table": 6
+  },
+  {
+    "name": "Eva si Andras Baranyai",
+    "table": 3
+  },
+  {
+    "name": "Fam Angelov: Emilian, Ralitsa si Chiril",
     "table": 2
   },
   {
-    "name": "Erszi Si Dani",
-    "table": 7
-  },
-  {
-    "name": "Evi si Andras Baranyay",
+    "name": "Feies Florin si Zsuzsanna",
     "table": 3
   },
   {
     "name": "George Mihes",
-    "table": 4
+    "table": 7
   },
   {
     "name": "Gyury Conti",
@@ -168,11 +164,11 @@
     "table": 8
   },
   {
-    "name": "Konstantina Menihta",
+    "name": "Konstantina Menychta si Karagiannis Minas",
     "table": 7
   },
   {
-    "name": "Laura Boglut",
+    "name": "Laura Boglut si Alexandru Boglut",
     "table": 11
   },
   {
@@ -180,11 +176,11 @@
     "table": 9
   },
   {
-    "name": "Magda \u0026 Mateus Pierug",
+    "name": "Magda \u0026 Mateus Pierog",
     "table": 7
   },
   {
-    "name": "Maria si Mihai",
+    "name": "Maria Suster si Mihai",
     "table": 6
   },
   {
@@ -196,7 +192,7 @@
     "table": 5
   },
   {
-    "name": "Nicu Stoian",
+    "name": "Nicolae Stoian si sotia",
     "table": 3
   },
   {
@@ -204,23 +200,23 @@
     "table": 1
   },
   {
-    "name": "Oana Pavel",
-    "table": 6
-  },
-  {
     "name": "Oana Rohlicek",
     "table": 10
+  },
+  {
+    "name": "Oana Tudoran si Pavel",
+    "table": 6
   },
   {
     "name": "Ovi si Anca Ghirlea",
     "table": 4
   },
   {
-    "name": "Patricia Darius",
+    "name": "Patricia si Darius Covaciu",
     "table": 9
   },
   {
-    "name": "Popa cristian",
+    "name": "Popa Cristian si \u002B 1",
     "table": 9
   },
   {
@@ -228,31 +224,35 @@
     "table": 12
   },
   {
-    "name": "Roberta si Andrei",
+    "name": "Roberta  Sendroiu si Andrei",
     "table": 6
   },
   {
-    "name": "Szidonia Bandi and Geza Lakatos",
-    "table": 6
+    "name": "Szidonia Bandi si Geza Lakatos",
+    "table": 7
   },
   {
     "name": "Timea si Sebastian",
     "table": 999
   },
   {
-    "name": "Timi Baranyay",
+    "name": "Timi Baranyai",
     "table": 6
   },
   {
-    "name": "Tomo Iovicic",
+    "name": "Tomo Ivovic",
     "table": 7
+  },
+  {
+    "name": "Toth Arpad",
+    "table": 3
   },
   {
     "name": "Traian Popescu Manu",
     "table": 9
   },
   {
-    "name": "Tudor Strifler Monica",
+    "name": "Tudor Striffler si Monica",
     "table": 9
   },
   {
@@ -262,9 +262,5 @@
   {
     "name": "Victor si Orsi",
     "table": 4
-  },
-  {
-    "name": "Zsuzi Florin",
-    "table": 3
   }
 ]
