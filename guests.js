@@ -1,5 +1,9 @@
 window.WEDDING_GUESTS = [
   {
+    "name": "Alex Baltean",
+    "table": 9
+  },
+  {
     "name": "Alex si Ivana Giurgica",
     "table": 999
   },
