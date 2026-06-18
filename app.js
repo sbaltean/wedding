@@ -49,6 +49,17 @@ function tableMarkup(table) {
   return `<span class="card__table-num">${table}</span>`;
 }
 
+/** Where the table sits in the room (RO + EN), from window.TABLE_LOCATIONS. */
+function locationMarkup(table) {
+  const loc = (window.TABLE_LOCATIONS || {})[table];
+  if (!loc) return "";
+  return `
+    <p class="card__loc">
+      <span class="card__loc-pin" aria-hidden="true">📍</span>
+      <span>${escapeHtml(loc.ro)}<span class="card__loc-en">${escapeHtml(loc.en)}</span></span>
+    </p>`;
+}
+
 function render(query) {
   const q = normalize(query);
   els.results.innerHTML = "";
@@ -77,7 +88,10 @@ function render(query) {
 
   const html = matches.map((g) => `
     <article class="card">
-      <div class="card__name">${highlight(g.name, rawTokens)}</div>
+      <div class="card__main">
+        <div class="card__name">${highlight(g.name, rawTokens)}</div>
+        ${locationMarkup(g.table)}
+      </div>
       <div class="card__table">
         <span class="card__table-label">Masa · Table</span>
         ${tableMarkup(g.table)}
