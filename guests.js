@@ -1,7 +1,7 @@
 window.WEDDING_GUESTS = [
   {
     "name": "Alex Baltean",
-    "table": 9
+    "table": 4
   },
   {
     "name": "Alex si Ivana Giurgica",
@@ -10,10 +10,6 @@ window.WEDDING_GUESTS = [
   {
     "name": "Alexandra si Daniel Borlea",
     "table": 8
-  },
-  {
-    "name": "Alexandru Cirstea si Sorina Manea",
-    "table": 4
   },
   {
     "name": "Alexandru si Ami Popa",
@@ -204,7 +200,7 @@ window.WEDDING_GUESTS = [
     "table": 1
   },
   {
-    "name": "Oana Rohlicek",
+    "name": "Oana si Cip Rohlicek",
     "table": 10
   },
   {
@@ -252,15 +248,15 @@ window.WEDDING_GUESTS = [
     "table": 3
   },
   {
-    "name": "Traian Popescu Manu",
-    "table": 9
+    "name": "Traian si Manu Popescu",
+    "table": 4
   },
   {
     "name": "Tudor Striffler si Monica",
     "table": 9
   },
   {
-    "name": "Victor Danci",
+    "name": "Victor si Mariana Danci",
     "table": 1
   },
   {
