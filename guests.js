@@ -17,7 +17,7 @@ window.WEDDING_GUESTS = [
   },
   {
     "name": "Alin Ghitulan",
-    "table": 10
+    "table": 9
   },
   {
     "name": "Anca Voron",
