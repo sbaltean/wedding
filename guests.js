@@ -112,7 +112,7 @@ window.WEDDING_GUESTS = [
     "table": 12
   },
   {
-    "name": "Dora  Abel",
+    "name": "Dora si Francisk  Abel",
     "table": 10
   },
   {
